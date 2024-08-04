@@ -22,5 +22,5 @@ Description: Implement an AI agent that plays the classic game of Tic-Tac-Toeaga
 
 3. RECOMMENDATION SYSTEM
 
-Description: Create a simple recommendation system that suggests items tousers based on their preferences. 
-              You can use techniques likecollaborative filtering or content-based filtering to recommendmovies, books, or products to users.
+Description: Create a simple recommendation system that suggests items to users based on their preferences. 
+              You can use techniques like collaborative filtering or content-based filtering to recommend movies, books, or products to users.
